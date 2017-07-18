@@ -20,4 +20,10 @@
 20. git merge --no-ff
 21.  git stash
 22. git stash list 
-23. 
+23. git stash apply  
+24. git stash drop
+25. git stash pop 
+26. git branch -D \<branch>
+27. git tag \<version>  \<commit  id>
+28. git tag  
+29. 
