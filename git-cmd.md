@@ -12,3 +12,6 @@
 12. git diff HEAD -- \<file>
 13. git checkout -- \<readme.txt>
 14. git reset HEAD \<file>
+15. git rm
+16. git checkout -- \<file>
+17. ssh-keygen -t rsa -C "youremail@example.com"
