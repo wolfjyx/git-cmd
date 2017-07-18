@@ -15,3 +15,5 @@
 15. git rm
 16. git checkout -- \<file>
 17. ssh-keygen -t rsa -C "youremail@example.com"
+18. git branch -d dev
+19. dd
