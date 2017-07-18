@@ -26,4 +26,9 @@
 26. git branch -D \<branch>
 27. git tag \<version>  \<commit  id>
 28. git tag  
-29. 
+29. git show \<tag version>
+30. git tag -a \<version> -m "xxx" \<commit  id>
+31.  git tag -d \<version>
+32. git push origin \<tag version>
+33.  git push origin --tags
+34. it push origin :refs/tags/\<tag version>
