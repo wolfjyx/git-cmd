@@ -16,3 +16,8 @@
 16. git checkout -- \<file>
 17. ssh-keygen -t rsa -C "youremail@example.com"
 18. git branch -d dev
+19. git log --graph --pretty=oneline --abbrev-commit
+20. git merge --no-ff
+21.  git stash
+22. git stash list 
+23. 
