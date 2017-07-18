@@ -10,3 +10,5 @@
 10. git reset --hard <id>   指定回到未来的某个版本
 11. git reflog
 12. git diff HEAD -- \<file>
+13. git checkout -- \<readme.txt>
+14. git reset HEAD \<file>
