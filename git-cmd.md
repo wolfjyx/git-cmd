@@ -33,3 +33,4 @@
 33.  git push origin --tags
 34. it push origin :refs/tags/\<tag version>
 35. git remote add origin \<ssh>
+36.
